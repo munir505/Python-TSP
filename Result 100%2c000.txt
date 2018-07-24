@@ -1,0 +1,362 @@
+Enter population amount: 100000
+Enter Travel Type, Either, Transit, Drive or Walk: transit
+Cities with over  100000  population:
+
+London
+Aberdeen
+Belfast
+Birmingham England
+Bradford England
+Brighton UK
+Bristol UK
+Cambridge
+Canterbury UK
+Cardiff
+Chelmsford UK
+City of Westminster UK
+Coventry
+Derby UK
+Derry
+Dundee
+Haymarket Edinburgh UK
+Exeter UK
+Glasgow Cambuslang
+Gloucester UK
+Kingston upon Hull
+Lancaster UK
+Leeds
+Leicester
+Lisburn
+Liverpool England
+Manchester
+Middlesbrough UK
+Newcastle upon Tyne
+Newport England
+Norwich UK
+Nottingham
+Oxford
+Perth Scotland
+Peterborough
+Plymouth UK
+Portsmouth UK
+Preston UK
+Salford
+Sheffield
+Southampton
+St Albans UK
+Stirling
+Stoke-on-Trent UK
+Sunderland England
+Swansea
+Wakefield England
+Winchester England
+Wolverhampton
+York UK
+
+Suggested Route:
+London -> City of Westminster UK -> St Albans UK -> Chelmsford UK -> Cambridge -> Peterborough -> Leicester -> Coventry -> Birmingham England -> Wolverhampton -> Newport England -> Stoke-on-Trent UK -> Derby UK -> Nottingham -> Sheffield -> 
+Wakefield England -> Leeds -> Bradford England -> Manchester -> Salford -> Preston UK -> Lancaster UK -> Liverpool England -> York UK -> Kingston upon Hull -> Middlesbrough UK -> Sunderland England -> Newcastle upon Tyne -> 
+Haymarket Edinburgh UK -> Stirling -> Glasgow Cambuslang -> Perth Scotland -> Dundee -> Aberdeen -> Belfast -> Lisburn -> Derry -> Swansea -> Cardiff -> Bristol UK -> Gloucester UK -> Oxford
+-> Winchester England -> Southampton -> Portsmouth UK -> Brighton UK -> Canterbury UK -> Norwich UK -> Exeter UK -> Plymouth UK -> London
+Total Distance:  5016.2  KM
+
+From  London  to  City of Westminster UK  going by  transit
+Subway towards Upminster
+Walk to City of Westminster, London, UK
+You have reached  City of Westminster UK
+
+From  City of Westminster UK  to  St Albans UK  going by  transit
+Walk to St. James's Park Station
+Subway towards Liverpool St
+Walk to London Blackfriars
+Train towards Bedford
+You have reached  St Albans UK
+
+From  St Albans UK  to  Chelmsford UK  going by  transit
+Train towards Three Bridges
+Walk to St Pancras International (Stop S)
+Bus towards to Stansted Airport
+Walk to Coach Station (Bay 19)
+Bus towards Southend-on-Sea
+Walk to Chelmsford, UK
+You have reached  Chelmsford UK
+
+From  Chelmsford UK  to  Cambridge  going by  transit
+Walk to Bus Station (Stand 1)
+Bus towards Stansted Airport
+Walk to Stansted Airport Coach Station
+Bus towards Norwich
+You have reached  Cambridge
+
+From  Cambridge  to  Peterborough  going by  transit
+Bus towards Nottingham
+You have reached  Peterborough
+
+From  Peterborough  to  Leicester  going by  transit
+Bus towards Nottingham
+You have reached  Leicester
+
+From  Leicester  to  Coventry  going by  transit
+Bus towards London
+Walk to Northampton Bus Interchange (Bay 20)
+Bus towards Swan Valley
+Walk to Northampton
+Train towards Birmingham New Street
+You have reached  Coventry
+
+From  Coventry  to  Birmingham England  going by  transit
+Train towards Wolverhampton
+You have reached  Birmingham England
+
+From  Birmingham England  to  Wolverhampton  going by  transit
+Train towards Wolverhampton
+You have reached  Wolverhampton
+
+From  Wolverhampton  to  Newport England  going by  transit
+Train towards Shrewsbury
+Walk to Telford Town Centre Telford Central
+Bus towards Stafford Town Centre
+You have reached  Newport England
+
+From  Newport England  to  Stoke-on-Trent UK  going by  transit
+Bus towards Stafford Town Centre
+Walk to Stafford
+Train towards Crewe
+You have reached  Stoke-on-Trent UK
+
+From  Stoke-on-Trent UK  to  Derby UK  going by  transit
+Bus towards London
+Walk to Birmingham Coach Station (Stop DS10)
+Bus towards Birmingham
+Walk to Birmingham New Street Station
+Train towards Glasgow Central
+You have reached  Derby UK
+
+From  Derby UK  to  Nottingham  going by  transit
+Train towards Nottingham
+You have reached  Nottingham
+
+From  Nottingham  to  Sheffield  going by  transit
+Walk to NOTTINGHAM, Station Street
+Bus towards Glasgow
+You have reached  Sheffield
+
+From  Sheffield  to  Wakefield England  going by  transit
+Bus towards Huddersfield
+You have reached  Wakefield England
+
+From  Wakefield England  to  Leeds  going by  transit
+Train towards Leeds
+You have reached  Leeds
+
+From  Leeds  to  Bradford England  going by  transit
+Bus towards Skipton
+You have reached  Bradford England
+
+From  Bradford England  to  Manchester  going by  transit
+Bus towards Liverpool
+You have reached  Manchester
+
+From  Manchester  to  Salford  going by  transit
+Train towards Wigan Wallgate
+You have reached  Salford
+
+From  Salford  to  Preston UK  going by  transit
+Train towards Blackpool North
+You have reached  Preston UK
+
+From  Preston UK  to  Lancaster UK  going by  transit
+Bus towards Edinburgh
+You have reached  Lancaster UK
+
+From  Lancaster UK  to  Liverpool England  going by  transit
+Train towards London Euston
+Walk to Wigan Wallgate
+Train towards Kirkby
+You have reached  Liverpool England
+
+From  Liverpool England  to  York UK  going by  transit
+Bus towards Leeds
+Walk to Manchester Piccadilly
+Train towards York
+You have reached  York UK
+
+From  York UK  to  Kingston upon Hull  going by  transit
+Train towards London Kings Cross
+Walk to Doncaster
+Train towards Bridlington
+You have reached  Kingston upon Hull
+
+From  Kingston upon Hull  to  Middlesbrough UK  going by  transit
+Train towards York
+Walk to York
+Train towards Middlesbrough
+You have reached  Middlesbrough UK
+
+From  Middlesbrough UK  to  Sunderland England  going by  transit
+Walk to Bus Station
+Intercity bus towards Newcastle upon Tyne
+You have reached  Sunderland England
+
+From  Sunderland England  to  Newcastle upon Tyne  going by  transit
+Walk to Sunderland
+Subway towards Newcastle, Regent Centre
+Walk to Newcastle upon Tyne, UK
+You have reached  Newcastle upon Tyne
+
+From  Newcastle upon Tyne  to  Haymarket Edinburgh UK  going by  transit
+Intercity bus towards Glasgow
+Walk to St Andrew Square
+Tram towards Edinburgh Airport
+Walk to Haymarket, Edinburgh EH12 5WN, UK
+You have reached  Haymarket Edinburgh UK
+
+From  Haymarket Edinburgh UK  to  Stirling  going by  transit
+Walk to Haymarket Station (Stop HH)
+Intercity bus towards Cumbernauld
+You have reached  Stirling
+
+From  Stirling  to  Glasgow Cambuslang  going by  transit
+Intercity bus towards Cumbernauld
+Walk to Town Centre Stances (stance 4)
+Bus towards Glasgow
+Walk to Glasgow Central Station
+Train towards Edinburgh
+You have reached  Glasgow Cambuslang
+
+From  Glasgow Cambuslang  to  Perth Scotland  going by  transit
+Train towards Motherwell
+Train towards Glasgow Central
+Walk to Waterloo Lane
+Bus towards City Centre
+Walk to Buchanan Bus Station (Stance 52)
+Intercity bus towards Aberdeen
+Walk to Park and Ride (Stop B)
+Bus towards Scone
+You have reached  Perth Scotland
+
+From  Perth Scotland  to  Dundee  going by  transit
+Train towards Dundee
+You have reached  Dundee
+
+From  Dundee  to  Aberdeen  going by  transit
+Walk to Bus Station
+Intercity bus towards Aberdeen
+You have reached  Aberdeen
+
+From  Aberdeen  to  Belfast  going by  transit
+Train towards Glasgow Queen Street
+Walk to Buchanan Bus Station (Stance 49)
+Intercity bus towards Belfast
+You have reached  Belfast
+
+From  Belfast  to  Lisburn  going by  transit
+Bus towards Banbridge
+Walk to Lisburn, UK
+You have reached  Lisburn
+
+From  Lisburn  to  Derry  going by  transit
+Train towards Bangor Train Station
+Walk to Belfast, Europa Buscentre
+Bus towards Derry Londonderry
+Walk to Londonderry, UK
+You have reached  Derry
+
+From  Derry  to  Swansea  going by  transit
+Walk to Buscentre
+Bus towards Belfast
+Intercity bus towards Edinburgh
+Walk to Buchanan Bus Station
+Bus towards Glasgow Circular
+Walk to Glasgow Central Station
+Train towards London Euston
+Walk to Crewe Station
+Train towards Milford Haven
+You have reached  Swansea
+
+From  Swansea  to  Cardiff  going by  transit
+Walk to Bus Station (Stand C)
+Intercity bus towards Victoria
+You have reached  Cardiff
+
+From  Cardiff  to  Bristol UK  going by  transit
+Intercity bus towards Victoria
+You have reached  Bristol UK
+
+From  Bristol UK  to  Gloucester UK  going by  transit
+Bus towards Swansea
+Walk to Newport (South Wales)
+Train towards Hereford
+Walk to Hereford Bus Station [5]
+Bus towards London
+You have reached  Gloucester UK
+
+From  Gloucester UK  to  Oxford  going by  transit
+Bus towards London
+Walk to Heathrow Central Bus Station (Stand 5)
+Bus towards Slough Town Centre
+Walk to Slough
+Train towards Moreton In Marsh
+You have reached  Oxford
+
+From  Oxford  to  Winchester England  going by  transit
+Train towards Reading
+Walk to Reading
+Train towards Basingstoke
+Walk to Basingstoke Railway Station
+Train towards Weymouth
+You have reached  Winchester England
+
+From  Winchester England  to  Southampton  going by  transit
+Train towards Southampton Central
+You have reached  Southampton
+
+From  Southampton  to  Portsmouth UK  going by  transit
+Train towards Eastleigh
+Walk to Eastleigh
+Train towards Fareham
+Walk to Fareham
+Train towards Portsmouth Harbour
+You have reached  Portsmouth UK
+
+From  Portsmouth UK  to  Brighton UK  going by  transit
+Bus towards Gatwick Airport (South)
+Bus towards Brighton
+You have reached  Brighton UK
+
+From  Brighton UK  to  Canterbury UK  going by  transit
+Bus towards South Malling
+Walk to Lewes
+Train towards Eastbourne
+Walk to Eastbourne
+Train towards Ashford International
+Walk to Ashford International
+Train towards Margate
+You have reached  Canterbury UK
+
+From  Canterbury UK  to  Norwich UK  going by  transit
+Train towards Gillingham
+Train towards Dartford
+Walk to Gravesend
+Train towards London Charing Cross
+Walk to London Bridge Station (Stop S)
+Bus towards Shoreditch
+Walk to Liverpool Street Station
+Train towards Norwich
+You have reached  Norwich UK
+
+From  Norwich UK  to  Exeter UK  going by  transit
+Bus towards Gatwick Airport (South)
+Walk to Heathrow Central Bus Station (Stand 9)
+Bus towards Reading Town Centre
+Walk to Reading
+Train towards Penzance
+You have reached  Exeter UK
+
+From  Exeter UK  to  Plymouth UK  going by  transit
+Bus towards Plymouth
+You have reached  Plymouth UK
+
+From  Plymouth UK  to  London  going by  transit
+Train towards London Paddington
+You have reached  London

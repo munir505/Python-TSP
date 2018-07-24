@@ -1,0 +1,85 @@
+Enter population amount: 500000
+Enter Travel Type, Either, Transit, Drive or Walk: transit
+Cities with over  500000  population:
+
+London
+Aberdeen
+Birmingham England
+Bradford England
+Dundee
+Haymarket Edinburgh UK
+Glasgow Cambuslang
+Leeds
+Manchester
+Perth Scotland
+Sheffield
+Stirling
+
+Suggested Route:
+London -> Birmingham England -> Manchester -> Sheffield -> Leeds -> Bradford England -> Glasgow Cambuslang -> Stirling -> Perth Scotland -> Dundee -> Haymarket Edinburgh UK -> Aberdeen -> London
+Total Distance:  2097.8  KM
+
+From  London  to  Birmingham England  going by  transit
+Train towards Birmingham Moor Street
+You have reached  Birmingham England
+
+From  Birmingham England  to  Manchester  going by  transit
+Train towards Crewe
+Walk to Crewe Station
+Train towards Manchester Piccadilly
+You have reached  Manchester
+
+From  Manchester  to  Sheffield  going by  transit
+Train towards Sheffield
+You have reached  Sheffield
+
+From  Sheffield  to  Leeds  going by  transit
+Train towards Leeds
+You have reached  Leeds
+
+From  Leeds  to  Bradford England  going by  transit
+Train towards Huddersfield
+You have reached  Bradford England
+
+From  Bradford England  to  Glasgow Cambuslang  going by  transit
+Bus towards Liverpool
+Bus towards Edinburgh
+Walk to Hamilton Central
+Train towards Dalmuir
+You have reached  Glasgow Cambuslang
+
+From  Glasgow Cambuslang  to  Stirling  going by  transit
+Walk to Buchanan Drive
+Bus towards Glasgow
+Walk to Queen Street
+Train towards Perth
+You have reached  Stirling
+
+From  Stirling  to  Perth Scotland  going by  transit
+Train towards Dundee
+You have reached  Perth Scotland
+
+From  Perth Scotland  to  Dundee  going by  transit
+Train towards Edinburgh via Dunfermline
+Train towards Dundee
+You have reached  Dundee
+
+From  Dundee  to  Haymarket Edinburgh UK  going by  transit
+Train towards Edinburgh
+Walk to Haymarket, Edinburgh EH12 5WN, UK
+You have reached  Haymarket Edinburgh UK
+
+From  Haymarket Edinburgh UK  to  Aberdeen  going by  transit
+Walk to Haymarket Station (Stop HH)
+Intercity bus towards Glasgow
+Walk to Buchanan Bus Station (Stance 52)
+Intercity bus towards Aberdeen
+You have reached  Aberdeen
+
+From  Aberdeen  to  London  going by  transit
+Bus towards Arbroath
+Bus towards Perth
+Walk to Dundee
+Train towards Edinburgh
+Train towards London Kings Cross
+You have reached  London
