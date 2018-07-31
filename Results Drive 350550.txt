@@ -1,0 +1,394 @@
+Enter population amount: 350550
+Enter Travel Type, Either, Transit, Drive or Walk: drive
+Cities with over  350550  population:
+
+London
+Aberdeen
+Birmingham England
+Bradford England
+Bristol UK
+Dundee
+Haymarket Edinburgh UK
+Glasgow Cambuslang
+Leeds
+Liverpool England
+Manchester
+Perth Scotland
+Sheffield
+Stirling
+
+Suggested Route:
+London -> Bristol UK -> Birmingham England -> Manchester -> Liverpool England -> Bradford England -> Leeds -> Sheffield -> Glasgow Cambuslang -> Stirling -> Perth Scotland -> Dundee -> Haymarket Edinburgh UK -> Aberdeen -> London
+Total Distance:  2454.7  KM
+
+From  London  to  Bristol UK  going by  drive
+Head southwest on The Mall toward Spring GardensMay be closed at certain times or days
+Turn right onto Constitution HillMay be closed at certain times or days
+Turn left onto Duke of Wellington PlLeaving toll zone
+Turn right onto Grosvenor Pl
+Slight left onto KnightsbridgeMay be closed at certain times or days
+Slight left onto Brompton Rd/A4Continue to follow A4May be closed at certain times or days
+Keep right to continue on Hammersmith Flyover/A4Continue to follow A4May be closed at certain times or days
+At Hogarth Roundabout, take the 2nd exit onto Hogarth Ln/A4Continue to follow A4Parts of this road may be closed at certain times or days
+Keep right to continue on M4, follow signs for Airport/The West. Heathrow/Staines. Hounslow
+At junction 19, exit onto M32 toward Bristol
+Continue onto Newfoundland St/A4032Continue to follow A4032
+Slight left onto Temple Way/A4044Continue to follow A4044
+At the roundabout, take the 2nd exit onto Temple Gate/A4
+At the roundabout, take the 4th exit and stay on Temple Gate/A4
+Slight right onto Redcliff Mead Ln
+Slight right onto Redcliffe Way/A4044
+At the roundabout, take the 2nd exit onto Temple Way/A4044
+Take the exit toward Broadmead/The Galleries
+Turn left onto Narrow Plain
+Continue onto Passage St
+Turn right onto Queen St
+Turn leftRestricted usage road
+You have reached  Bristol UK
+
+From  Bristol UK  to  Birmingham England  going by  drive
+Head east toward Queen StRestricted usage road
+Turn right onto Queen St
+Turn left onto Passage St
+Continue onto Narrow Plain
+Narrow Plain turns left and becomes Temple Way
+At the roundabout, take the 2nd exit onto the Bond St S/Temple Way/A4044 ramp to M32/M5/M4/City Centre
+Merge onto Bond St S/Temple Way/A4044
+Keep right to continue on St Paul St/Temple Way/A4044
+Turn right onto Newfoundland St/A4032
+Keep right to continue on M32, follow signs for M4/M5
+Take the exit onto M4 toward M5/South Wales/Midlands
+At junction 20, exit onto M5
+Keep right to stay on M5
+Keep right at the fork to stay on M5
+At junction 8, exit onto M6 toward London/M1/M40/Birmingham (N &amp; E)
+Take the exit toward A38(M)
+Keep right, follow signs for A38(M) and merge onto A38(M)
+Continue onto Aston Express Way/A38
+Take the exit toward University of Aston/Markets area/Childrens Hospital
+Continue onto Corporation St
+At the roundabout, take the 1st exit onto James Watt Queensway/B4114
+Turn left onto Aston St/B4133
+Turn left
+You have reached  Birmingham England
+
+From  Birmingham England  to  Manchester  going by  drive
+Head northwest toward Corporation St
+Continue onto Corporation St
+At the roundabout, take the 4th exit onto Aston Express Way
+Merge onto Aston Express Way/A38 via the ramp on the right to A38(M)/M6/M42/M40/Coventry/Wolverhampton/Lichfield/B'ham Airport
+Keep right to continue on A38(M), follow signs for sutton/Coldfield/Coventry/W'hampton/M6/M5/M40/M42
+At junction 6, exit onto M6 toward M5
+Keep right at the fork to stay on M6
+Take the M6 exit on the right toward Stafford
+Continue onto M6
+At junction 19, take the A556 exit to Manchester/M'cr Airport/M56
+At Tabley Interchange, take the 3rd exit onto A556
+Keep right
+Merge onto M56
+Keep right at the fork to stay on M56, follow signs for A5103/City Centre/M60 N &amp; W/M62 W/M61
+Continue onto Princess Pkwy/A5103Continue to follow A5103
+Keep right to continue on Princess Rd/A5103
+At the roundabout, take the 2nd exit onto Medlock St/A5103Continue to follow A5103
+Turn right onto Great Bridgewater St/A5103Continue to follow A5103
+Turn left onto Oxford St/A34Continue to follow A34
+Turn right onto Mount St/A6042Continue to follow A6042
+Turn right onto King St
+Turn right onto Brown St
+You have reached  Manchester
+
+From  Manchester  to  Liverpool England  going by  drive
+Head south on Brown St toward Chancery Ln
+Turn left onto Booth St
+Turn left onto Fountain St
+Turn right onto York St
+Continue onto New York St
+Turn right onto Portland St/A5103
+Turn left onto Princess St/A34Continue to follow A34
+Take the ramp onto A57(M)
+Continue onto Dawson St/Ring Rd/A57
+Slight left onto Regent Rd/A57
+Continue onto M602
+Continue onto M62
+Continue onto Bowring Park Rd/A5080
+Keep left to stay on Bowring Park Rd/A5080Continue to follow A5080
+Continue onto Edge Ln/A5047Continue to follow A5047
+Turn right onto Low Hill/B5340Continue to follow Low Hill
+Continue straight onto Erskine St
+Continue onto Islington
+Turn left to stay on Islington
+Continue onto Churchill Way/A57Continue to follow A57
+Turn right onto Exchange St E
+Turn right onto Tithebarn St/A5046
+You have reached  Liverpool England
+
+From  Liverpool England  to  Bradford England  going by  drive
+Head northeast on Tithebarn St/A5046 toward Hackins HeyContinue to follow A5046
+Slight right onto Churchill Way/A57
+Slight left onto Islington
+Turn right onto Hunter St
+Continue onto New Islington
+Continue onto Brunswick Rd
+Slight right to stay on Brunswick Rd
+Slight right onto Low Hill
+Turn left onto Mt Vernon Rd/A5047Continue to follow A5047
+Continue onto Edge Ln Dr/A5080Continue to follow A5080
+Continue onto M62 (signs for M6/M57/Manchester/Warrington/St Helens/Huyton)
+At junction 12, exit onto M60 toward Leeds/Bolton/Ring Road
+Keep right to continue on M62
+Keep left at the fork to continue on M606, follow signs for A 638/A 58
+At junction 3, take the A6177 exit to Ring Road(West)
+At Staithgate Roundabout, take the 3rd exit onto Rooley Ln/A6177Continue to follow A6177
+Turn right onto Manchester Rd/A641
+Continue straight to stay on Manchester Rd/A641
+Continue straight to stay on Manchester Rd/A641
+At the roundabout, take the 1st exit onto Prince's Way/A6181Continue to follow A6181
+Turn right onto Barry St/A6181Continue to follow A6181
+You have reached  Bradford England
+
+From  Bradford England  to  Leeds  going by  drive
+Head southeast on Westgate/A6181 toward Providence StContinue to follow A6181
+At the roundabout, take the 2nd exit onto Manchester Rd/A641
+Slight left toward Mayo Ave/A6177
+Slight left onto Mayo Ave/A6177Continue to follow A6177
+Slight right onto M606 (signs for M62/M1)
+Take the A638/M62 (E) exit toward M1/Dewsbury/Hull/Leeds
+Keep left at the fork and merge onto M62
+Keep left at the fork to continue on M621, follow signs for Leeds/M62/Batley
+At junction 2, take the A643 exit to Wetherby/A58/Harrogate/A61/A64/York
+At Elland Rd Interchange, take the 1st exit onto A643
+At the roundabout, take the 4th exit onto Wellington Rd/A58
+Keep right to continue on A58(M), follow signs for A58/Skipton/Wetherby/Harrogate/York
+Take the Civic Precinct exit
+Merge onto A58
+Continue straight onto Westgate
+Turn left onto Oxford Pl
+Turn right onto Great George St
+You have reached  Leeds
+
+From  Leeds  to  Sheffield  going by  drive
+Head east on Great George St toward Cookridge St
+Continue onto Merrion St
+Merrion St turns left and becomes New Briggate
+Slight right onto New York Rd
+Continue straight to stay on New York Rd
+Turn right onto Marsh Ln
+Continue straight to stay on Marsh Ln
+Continue straight onto East St/Marsh Ln/A61Continue to follow A61
+Keep right to stay on A61
+Take the ramp on the right onto M621
+Merge onto M1
+At junction 34, take the A6109 exit to Rotherham/Meadowhall/Sheffield
+At Meadowhall Roundabout, take the 4th exit onto Meadowhall Rd/A6109
+Keep right to stay on Meadowhall Rd/A6109Continue to follow A6109
+At the roundabout, take the 1st exit onto Brightside Ln/A6109Continue to follow A6109
+Continue straight onto Attercliffe Rd/A6109Continue to follow A6109
+Slight right onto Savile St/A6109
+Turn right at the 2nd cross street onto Derek Dooley Way/A61
+At the roundabout, take the 1st exit onto Corporation St/A61
+Slight left onto Corporation St/B6539
+Turn right at W Bar
+Slight left onto W Bar Green/B6539Continue to follow B6539
+At the roundabout, take the 2nd exit onto Townhead St
+Slight right onto Leopold St
+Turn right onto Pinfold St
+Turn left onto Holly St
+Continue straight onto Balm Green
+Balm Green turns left and becomes Barker's Pool
+Barker's Pool turns left and becomes Leopold St
+You have reached  Sheffield
+
+From  Sheffield  to  Glasgow Cambuslang  going by  drive
+Head northwest on Leopold St toward Orchard LnGo through 1 roundabout
+Leopold St turns slightly left and becomes Pinfold St
+Continue onto Trippet Ln
+Turn right onto Rockingham St
+Turn right onto Broad Ln/B6539
+At the roundabout, take the 1st exit and stay on Broad Ln/B6539Continue to follow B6539
+Turn right at W Bar
+Turn left onto Corporation St/B6539
+Turn right onto Gibraltar St/A61Continue to follow A61
+At the roundabout, take the 3rd exit onto Derek Dooley Way/A61
+Turn left onto Sheffield Pkwy/A57Continue to follow Sheffield Pkwy
+At the roundabout, take the 3rd exit onto the M1 ramp to M18/London/Nottingham/Doncaster
+Merge onto M1
+At junction 32, take the M18 exit to Hull/Doncaster
+Continue onto M18
+At junction 2, exit onto A1(M)
+Continue onto Doncaster Bypass/A1Continue to follow A1
+Keep right to continue on A1(M), follow signs for Wetherby/Manchester/Leeds/M62
+Take the A66 (W)/A6108 exit toward Brough/Penrith/Richmond/Scotch Corner
+At the roundabout, take the 2nd exit onto A66
+At Kemplay Bank Roundabout, take the 2nd exit and stay on A66
+At Skirsgill Interchange, take the 3rd exit onto the M6 ramp to Carlisle/M6(N)
+Merge onto M6
+Continue onto A74(M)
+Continue onto M74
+At junction 8, take the A71/B7078 exit to Kilmarnock/Edinburgh/Larkhall
+At the roundabout, take the 5th exit onto Swinhill Rd/A71
+Merge onto M74 via the ramp to Glasgow
+At junction 3, take the A763 exit to Shettleston/Cambuslang
+Turn left onto Carmyle Ave/A763Continue to follow A763
+At the roundabout, take the 1st exit onto Clydeford Rd/A763
+At the roundabout, take the 2nd exit onto Clydeford Rd
+Turn right onto Mansion St
+Turn right onto Colebrooke St
+You have reached  Glasgow Cambuslang
+
+From  Glasgow Cambuslang  to  Stirling  going by  drive
+Head south on Colebrooke St toward Mansion St
+Turn left onto Mansion St
+Turn left onto Clydeford Rd
+At the roundabout, take the 2nd exit onto Clydeford Rd/A763
+At the roundabout, take the 1st exit and stay on Clydeford Rd/A763Continue to follow A763
+Turn right to merge onto M74 toward M73/Stirling/Edinburgh/Carlisle
+Take the M73 exit toward Stirling/Kincardine Bridge/Edinburgh
+Continue onto M73
+Merge onto M80
+At junction 9, take the A91 exit to Stirling
+At the roundabout, take the 3rd exit onto A872
+At the roundabout, take the 2nd exit onto Burghmuir Rd/A9Go through 1 roundabout
+At the roundabout, take the 1st exit onto Upper Craigs/A811Continue to follow A811
+At the roundabout, take the 2nd exit onto Wellgreen Rd/A811Continue to follow A811
+You have reached  Stirling
+
+From  Stirling  to  Perth Scotland  going by  drive
+Head northwest on Port St/A811 toward Dumbarton RdContinue to follow A811Go through 1 roundabout
+At the roundabout, take the 2nd exit onto Raploch Rd/B8051
+At the roundabout, continue straight onto A84Go through 1 roundabout
+At the roundabout, take the 2nd exit and stay on A84
+At the roundabout, take the 1st exit onto the M9 ramp to A9/Perth
+Merge onto M9
+At the roundabout, take the 2nd exit onto A9
+At the roundabout, take the 2nd exit onto A93
+At the roundabout, take the 2nd exit and stay on A93
+Continue onto York Pl
+Continue onto County Pl
+Continue onto South St
+You have reached  Perth Scotland
+
+From  Perth Scotland  to  Dundee  going by  drive
+Head east on South St toward King Edward St
+Turn right onto Dundee Rd/A85Continue to follow A85
+Take the A90 ramp to Dundee
+Continue onto A90
+At the roundabout, take the 2nd exit onto Kingsway W/A90
+At the roundabout, take the 2nd exit and stay on Kingsway W/A90
+At the roundabout, take the 3rd exit onto Strathmartine Rd
+Continue straight onto Strathmartine Rd/B960
+At the roundabout, take the 2nd exit onto Moncur Cres/B960Continue to follow B960Go through 2 roundabouts
+At the roundabout, take the 2nd exit onto Dens Rd
+Dens Rd turns slightly right and becomes Victoria Rd/A929
+Turn left onto Meadowside
+Meadowside turns left and becomes Chapel St
+You have reached  Dundee
+
+From  Dundee  to  Haymarket Edinburgh UK  going by  drive
+Head north on Chapel St toward Meadowside
+Chapel St turns right and becomes Meadowside
+Turn left onto Victoria Rd/A929
+At the roundabout, take the 1st exit onto N Marketgait/A991Continue to follow A991
+At the roundabout, take the 2nd exit onto Lochee Rd/A923
+Slight right to stay on Lochee Rd/A923Continue to follow A923
+At the roundabout, take the 2nd exit onto Coupar Angus Rd/A923
+At the roundabout, take the 1st exit onto Liff Rd
+At the roundabout, take the 3rd exit and stay on Liff Rd
+Slight left onto Kingsway W/A90
+At the roundabout, take the 2nd exit and stay on Kingsway W/A90
+At the roundabout, take the 2nd exit onto A90
+Keep right to continue on M90, follow signs for Edinburgh/Stirling/Glasgow/Crianlarich/Inverness
+Keep right to stay on M90
+Continue onto A90
+Take the A90 exit
+Continue onto A90
+Slight right onto Hillhouse Rd/A90Continue to follow A90
+Turn right onto Craigleith Cres
+Turn left onto Ravelston Dykes
+Turn right onto Succoth Ave
+Turn right onto Succoth Pl
+Continue onto Murrayfield Ave
+Turn left onto Roseburn Terrace/A8Continue to follow A8
+Continue onto Haymarket TerraceMay be closed at certain times or days
+Turn right onto Haymarket Yards
+Turn right to stay on Haymarket YardsRestricted usage roadDestination will be on the left
+You have reached  Haymarket Edinburgh UK
+
+From  Haymarket Edinburgh UK  to  Aberdeen  going by  drive
+Head east toward Haymarket YardsRestricted usage road
+Turn left to stay on Haymarket Yards
+Turn left onto Haymarket Terrace
+Continue onto W Coates/A8Continue to follow A8
+Turn right onto Murrayfield Ave
+Turn right onto Succoth Pl
+Turn left onto Succoth Ave
+Turn left onto Ravelston Dykes
+Turn right onto Craigleith Cres
+Turn left onto Queensferry Rd/A90Continue to follow A90
+Continue onto A90
+Continue onto M90 (signs for Dundee/Perth)
+Continue onto A90
+At the roundabout, take the 2nd exit onto Kingsway W/A90
+At the roundabout, take the 2nd exit and stay on Kingsway W/A90
+At the roundabout, take the 2nd exit onto Kingsway/A90
+Turn left onto Forfar Rd/A90Continue to follow A90Go through 1 roundabout
+At the roundabout, take the 2nd exit and stay on A90
+At the roundabout, take the 3rd exit onto Great Southern Rd/B9077
+At the roundabout, take the 1st exit and stay on Great Southern Rd/B9077
+At the roundabout, take the 3rd exit onto Riverside Dr/A945
+At the roundabout, take the 2nd exit onto N Esplanade W/A956Continue to follow A956
+Turn right onto Trinity Quay/A956Continue to follow A956
+Turn left onto Commerce St/A956
+At the roundabout, take the 2nd exit onto E N St/A956Continue to follow E N St
+You have reached  Aberdeen
+
+From  Aberdeen  to  London  going by  drive
+Head west on W N St toward Littlejohn St
+Turn right onto St Clair St
+At the roundabout, take the 2nd exit and stay on St Clair St
+Turn left onto W N St/A96Continue to follow W N St
+At the roundabout, take the 3rd exit onto Commerce St/A956
+Turn right onto Virginia St/A956Continue to follow A956
+Turn left onto Market St/A956
+Turn right onto N Esplanade W/A956
+At the roundabout, take the 2nd exit onto Riverside Dr/A945
+At the roundabout, take the 1st exit onto Great Southern Rd/B9077
+At the roundabout, take the 3rd exit and stay on Great Southern Rd/B9077
+At the roundabout, take the 1st exit onto Stonehaven Rd/A90Continue to follow A90
+At the roundabout, take the 2nd exit and stay on A90Go through 1 roundabout
+Continue straight onto Kingsway/A90
+At the roundabout, take the 2nd exit onto Kingsway W/A90
+At the roundabout, take the 2nd exit and stay on Kingsway W/A90
+At the roundabout, take the 2nd exit onto A90
+Keep right to continue on M90, follow signs for Edinburgh/Stirling/Glasgow/Crianlarich/Inverness
+Take the exit toward Stirling/Glasgow/Crianlarich/Inverness/A9
+Continue onto M90
+At the roundabout, take the 1st exit onto A9
+At the roundabout, take the 3rd exit onto M9 heading to Stirling/Edinburgh/Glasgow/M80
+Keep right at the fork to continue on M80
+Keep left at the fork to continue on M73, follow signs for A80/M74
+Take the exit onto M74 toward Carlisle
+Continue onto A74(M)
+Continue onto M6
+Keep right at the fork to stay on M6
+Keep right to continue on M6 TollToll road
+Keep right at the fork to stay on M6 TollToll road
+Merge onto M42
+At junction 3A, exit onto M40 toward London/Warwick/Stratford
+Continue onto Western Ave/A40
+Keep right to continue on Greystoke Park Terrace/Western Ave/A40Continue to follow A40
+Keep right to continue on Westway/A40
+Take the exit toward West End Paddington
+Continue onto Westbourne Bridge
+Turn right onto Orsett Terrace
+Turn left onto Gloucester Terrace
+Turn left onto Lancaster Terrace/A402
+Turn right onto Westbourne St/A402
+Turn left onto Bayswater Rd/A402Continue to follow Bayswater Rd
+Continue onto Marble Arch
+Slight right onto Park Ln
+Continue straight onto Park Ln/A4202
+Turn left onto Piccadilly
+Slight right onto Duke of Wellington Pl
+Turn left onto Constitution HillEntering toll zoneMay be closed at certain times or days
+Turn left onto The MallLeaving toll zone in 950&nbsp;mEntering toll zone in 1.0&nbsp;km at Spring GardensMay be closed at certain times or days
+You have reached  London
