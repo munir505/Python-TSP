@@ -2,6 +2,7 @@
 import Distances
 import Directions
 import csv
+import sys
 
 #Inputs for the population amount and travel type
 population_check = int(input('Enter population amount: '))
@@ -80,7 +81,7 @@ def init_path ():
 #Finds the closest city to the current city
 def find_closest (current):
     #Making sure that the first value is the biggest
-    smallest_distance = 100000000000
+    smallest_distance = sys.maxint
     #Holds the current closest city
     closest_city = []
     for x in range (len(travel_list)):
