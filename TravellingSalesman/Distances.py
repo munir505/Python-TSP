@@ -2,7 +2,7 @@
 #Imports the module needed
 import googlemaps
 #Adds the API key needed
-gmaps = googlemaps.Client(key='AIzaSyA-mcAe2cLo2Giv_0gX0kleTGa04wPOlQQ')
+gmaps = googlemaps.Client(key='#API KEY GOES HERE')
 #Function that gets the distance when two cities are given
 def get_distance (city_one, city_two):
     #Gets the Python Dictionaries
