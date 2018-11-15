@@ -8,7 +8,7 @@ import re
 #Endpoint used to make the request, provided by Google
 endpoint = 'https://maps.googleapis.com/maps/api/directions/json?'
 #API key that is needed to use the API
-api_key = 'AIzaSyA-mcAe2cLo2Giv_0gX0kleTGa04wPOlQQ'
+api_key = #API KEY GOES HERE
 #Function that gets the directions, requires three variables
 def get_directions (location_one, location_two, travel_type):
     #Origin is the first city
